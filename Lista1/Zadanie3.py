@@ -9,3 +9,4 @@ c=math.radians(alfa) #to mi zamienić musi z kąta na radiany bo po prostu tak j
 pole=(a*b*math.sin(c))/2 #tutaj juz wzór na pole
 print("pole wynosi: ")
 print(pole)
+
