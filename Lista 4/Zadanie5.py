@@ -1,6 +1,6 @@
 from itertools import permutations
 
-n = (input("ilosc elementow "))
+n = int((input("ilosc elementow ")))
 lista = {}
 for i in range(n):
     lista[i] = int(input())
